@@ -19,7 +19,7 @@ def check_config():
                 "userdata": {
                     "token": "null",
                     "seconds": "null",
-                    "message": "null",a
+                    "message": "null",
                     "channels": {"null": "null"}
                 }
             }
