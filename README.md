@@ -7,7 +7,7 @@ Basically it has auto config generator so just run it. When you are logged in, t
 - Change the message
 - Optionally add delay per channel or use the default
 ```
-You are done :)
+You are done :), happy shilling!
 # Links
 [Discord](https://discord.gg/MRNuVCXuTS)<br />
 [Telegram](https://t.me/kwaytv)<br />
